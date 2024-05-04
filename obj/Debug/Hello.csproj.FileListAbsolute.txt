@@ -1,0 +1,7 @@
+Z:\eMedicine\Hello\bin\Debug\Hello.exe.config
+Z:\eMedicine\Hello\bin\Debug\Hello.exe
+Z:\eMedicine\Hello\bin\Debug\Hello.pdb
+Z:\eMedicine\Hello\obj\Debug\Hello.csproj.AssemblyReference.cache
+Z:\eMedicine\Hello\obj\Debug\Hello.csproj.CoreCompileInputs.cache
+Z:\eMedicine\Hello\obj\Debug\Hello.exe
+Z:\eMedicine\Hello\obj\Debug\Hello.pdb
